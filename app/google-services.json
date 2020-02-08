@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "95973416146",
+    "firebase_url": "https://asnproject.firebaseio.com",
+    "project_id": "asnproject",
+    "storage_bucket": "asnproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:95973416146:android:8ad4ae0108134aa25d610b",
+        "android_client_info": {
+          "package_name": "com.asnproject.authentificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "95973416146-qc5366umo2mhmgp6h52bv4euunva0uvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xjmSQ4T89NRb1OFXTq2ENoKwU4UStak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "95973416146-qc5366umo2mhmgp6h52bv4euunva0uvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
